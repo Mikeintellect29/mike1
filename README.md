@@ -1,2 +1,2 @@
-A file for all my pratice code
+A file for all my pratice codes
 
